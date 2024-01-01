@@ -1,5 +1,5 @@
 # Quicksort
-Quicksort is better than merge sort of input size is less
+Quicksort is better than merge sort if input size is less
 #include <stdio.h>
 ```
 void swap(int a[],int i,int j)
